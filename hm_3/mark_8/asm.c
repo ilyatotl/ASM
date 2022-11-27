@@ -73,16 +73,3 @@ int main(int argc, char* argv[]) {
     }
     printf("The programm was working %ldms\n", (end - start) / 1000);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
