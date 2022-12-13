@@ -1,0 +1,20 @@
+Programmer Frank wrote 1 code
+Programmer Ilya wrote 1 code
+Programmer Sam wrote 1 code
+Programmer Sam made code review for Ilya with result: Accept
+Programmer Frank made code review for Sam with result: Accept
+Programmer Ilya made code review for Frank with result: Reject
+Programmer Frank corrected his code
+Programmer Ilya wrote 2 code
+Programmer Sam wrote 2 code
+Programmer Ilya made code review for Frank with result: Accept
+Programmer Frank made code review for Ilya with result: Reject
+Programmer Ilya corrected his code
+Programmer Frank wrote 2 code
+Programmer Frank made code review for Sam with result: Reject
+Programmer Ilya made code review for Frank with result: Reject
+Programmer Frank made code review for Ilya with result: Accept
+Programmer Sam corrected his code
+Programmer Frank corrected his code
+Programmer Frank made code review for Sam with result: Accept
+Programmer Ilya made code review for Frank with result: Accept
